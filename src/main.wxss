@@ -1,0 +1,6 @@
+.reload {
+  background: yellow;
+}
+.reload .remind {
+  color: #fff;
+}
